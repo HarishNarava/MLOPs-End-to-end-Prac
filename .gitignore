@@ -210,5 +210,3 @@ __marimo__/
 data
 models
 reports
-.dvc
-dvc.yaml
